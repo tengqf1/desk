@@ -13,7 +13,7 @@ module.exports = {
       }]
     ],
     themeConfig: {
-      repo: 'https://github.com/hoochanlon/OA-QNA',
+      repo: 'https://github.com/hoochanlon/desktop-manual',
       nav: [{ text: '跳转首页', link: '/' }],
         sidebar: [
             {
