@@ -1,5 +1,5 @@
 module.exports = {
-    title: '桌面运维常见问题解答',
+    title: '桌面运维常见问题解答手册',
     description: '如题所述，常见OA办公桌面环境故障解答',
     base: '/', //项目文件夹设置目录
     plugins: [
@@ -13,7 +13,7 @@ module.exports = {
       }]
     ],
     themeConfig: {
-      repo: 'https://github.com/hoochanlon/desktop-manual',
+      repo: 'https://github.com/hoochanlon/desktop-manual/',
       nav: [{ text: '跳转首页', link: '/' }],
         sidebar: [
             {
