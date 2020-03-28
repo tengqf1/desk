@@ -1,7 +1,7 @@
 module.exports = {
     title: '桌面运维常见问题解答手册',
     description: '如题所述，常见OA办公桌面环境故障解答',
-    base: '/', //项目文件夹设置目录
+    base: '/desktop-manual/', //项目文件夹设置目录
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
       ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue
