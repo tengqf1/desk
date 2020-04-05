@@ -41,6 +41,12 @@ module.exports = {
                 children: [['/hard-bearkdown/hard','硬件调试处理']]
               },
               {
+                title: '系统重装',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [['/sysdm-reset/cz.md','重装系统概要']]
+              },
+              {
                 title: '安全防护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
