@@ -62,7 +62,10 @@ module.exports = {
                 title: '注意事项',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['notice','维护细节注意说明']]
+                children: [
+                  ['notice/support','维护细节注意说明'],
+                  ['notice/law-sug','外包涉及到的法律知识']
+                ]
               },
               {
                 title: '致谢',   // 必要的
