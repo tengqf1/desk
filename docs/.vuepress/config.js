@@ -1,5 +1,5 @@
 module.exports = {
-    title: '桌面运维常见问题解答手册',
+    title: '桌面运维管理指南',
     description: '如题所述，常见OA办公桌面环境故障解答',
     base: '/desktop-manual/', //项目文件夹设置目录
     plugins: [
