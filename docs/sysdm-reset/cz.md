@@ -142,10 +142,22 @@ CPU安装将散热硅胶膏涂抹均匀到CPU上，并将其涂抹均匀，在�
 * [百度贴吧-深度慢扒硬盘翻新清零的秘密](https://tieba.baidu.com/p/5080574289)
 * [zol回答-翻新硬盘和新的在用的时候有什么不同](http://ask.zol.com.cn/x/6118821.html)
 
-::: tip
+### 无盘系统
+
+无盘系统可以理解为虚拟桌面，将系统镜像挂载到服务器上，然后服务器根据IP下发到各个主机上，类似于PE加载模式。一些网吧自己组装一台性价比很高的电脑，以此作为批量购买的标配，然后结合使用无盘系统节省了大量主机的维护成本。
+
+注意：后台服务器配置要够强，硬盘要好，网速也要快，才能让用户感觉是本地硬盘启动一样。
+
+相关导读
+
+* [百度知道-家里电脑怎么做无盘系统](https://zhidao.baidu.com/question/5154938.html)
+* [51cto-无盘的搭建](https://blog.51cto.com/loveworld/1004838)
+* [天下网吧-免费无广告的网咖专用云无盘安装图文教程](http://www.txwb.com/wptx/jc/385258.html)
+* [锐起网吧无盘视频教程](http://www.richtech.cn/video.html)
+
+
 ### 网站与软件推荐
 * 硬件测试信息：[AIDA64](https://www.aida64.com/)
 * CPU、显卡性能评价：[3DMARK网站](https://www.3dmark.com/zh-hans/)
 * 驱动及封装：[系统总裁](https://www.sysceo.com/)
 * PE工具箱：[微PE工具箱](http://www.wepe.com.cn/)
-:::
