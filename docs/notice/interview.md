@@ -123,3 +123,7 @@ HR介意在职是因为离职一个月周期太长，不能马上入职它的公
 * [三茅网-HR如何深入了解公司业务](http://www.hrloo.com/qa/t/4986248)
 * [日记-四月份的面试阶段回顾](https://hoochanlon.github.io/note/2020/04-21/c099fc51.html)
 :::
+
+<p style="background-color: #252525;color: #252525;text-decoration:none;" href="javascript:void(0);"  onmouseover="this.style.color='white';">
+此文献给我最爱的靖唯妹妹，在我承受这些教训的同时，我不想再让至亲至爱再次经历过往的覆辙。
+</p>
