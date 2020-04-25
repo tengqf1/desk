@@ -15,6 +15,10 @@ module.exports = {
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-manual/',
       nav: [{ text: '跳转首页', link: '/' }],
+      algolia: {
+        apiKey: '23DA271QW6',
+        indexName: 'helpdesk_manual'
+      },
         sidebar: [
             {
                 title: 'OA办公',   // 必要的
@@ -71,6 +75,16 @@ module.exports = {
                 children: [
                   ['notice/support','维护细节注意说明'],
                   ['notice/law-sug','外包涉及到的法律知识']
+                ]
+              },
+              {
+                title: '特别篇：社会工程',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['notice/interview','人力资源与面试者'],
+                  ['notice/ti-analysis','培训机构分析报告'],
+                  ['notice/zufang-note','社会租房记录']
                 ]
               },
               {
