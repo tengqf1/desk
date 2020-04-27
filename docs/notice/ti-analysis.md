@@ -4,19 +4,9 @@
 
 以下真实故事及相关新闻，相信大家也是深有体会和认知；我觉得与其只从问答及贴吧等评论区去了解xx公司是不是培训公司，不如深入理解它的设计模式以及核心运作流程，不然此类公司一旦换个了名字，结果又是不知道了，这就是我写这报告的原因。此外，特别感谢网上结识的 biubiubiu 老哥，勇愿提供珍贵且有价值的信息。
 
-<details><summary>该篇文章研究所涉及到的培训机构核心运营设计模式及内部员工运作流程，基于达内培训机构为母版进行分析</summary>
+该篇文章研究所涉及到的培训机构核心运营设计模式及内部员工运作流程，基于国内某培训机构为母版进行分析
 
-![](https://i.postimg.cc/qMRLWY7V/125.png)
-
-</details>
-
-<details><summary>关于培训机构诈骗内容</summary>
-
-![](https://i.postimg.cc/PJFZfp9T/Snipaste-2019-05-29-00-36-16.png)
-
-</details>
-
-<details><summary>相关媒体曝光链接</summary>
+<details><summary>关于培训机构诈骗内容，相关媒体曝光链接</summary>
 
 * [南方网 - 免费噱头尽是“套路” 警方侦破培训诈骗案](https://xw.qq.com/edu/20170505012547)
 * [北京晚报 - 培训贷诈骗案涉事老板被捕 近期全国多地均有此类“招生”陷阱](https://www.takefoto.cn/viewnews-1598036.html)
@@ -79,7 +69,7 @@
 
 这次培训机构变得更为精明，其实... 培训机构的虚假招聘条件，其实是利用人们的一些养吃白饭的侥幸心理，然后进行剧本化诱使招转培的。
 
-![](https://i.postimg.cc/pXGrhysZ/11.png)
+![](https://i.postimg.cc/dVPxDtYm/11.png)
 
 站在培训机构招转培招收人效率最大化考虑：
 
@@ -89,9 +79,7 @@
 
 比如这个招聘简示的招转培目的，相对来说隐藏较深
 
-![](https://i.postimg.cc/fL2ZTWnP/1s3.png)
-
-
+![](https://i.postimg.cc/LsZKw02N/1s3.png)
 
 
 ### 培训机构对PUA应用调查
