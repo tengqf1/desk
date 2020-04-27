@@ -15,10 +15,10 @@ module.exports = {
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-manual/',
       nav: [{ text: '跳转首页', link: '/' }],
-      // algolia: {
-      //   apiKey: '',
-      //   indexName: ''
-      // },
+      algolia: {
+        apiKey: 'cb720d4380fe1a8f6fc0caeaccf225dc',
+        indexName: 'hoochanlon_helpdesk'
+      },
         sidebar: [
             {
                 title: 'OA办公',   // 必要的
