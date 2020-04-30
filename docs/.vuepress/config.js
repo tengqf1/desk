@@ -63,6 +63,12 @@ module.exports = {
                 children: [['/secure/trojan','病毒防范处理']]
               },
               {
+                title: '信息整合',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [['/star/centre','资料汇聚整理']]
+              },
+              {
                 title: '资产管理',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
