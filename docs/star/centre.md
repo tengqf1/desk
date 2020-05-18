@@ -37,7 +37,9 @@ Awesome-Windows的Contributor多数国内外软件工程师与爱好者自发贡
 
 > 摘自[51cto-对代理ARP技术的误读、无法完成代理ARP实验的故障分析](https://blog.51cto.com/7658423/1441149)
 
-### word文档规范
+### word文档规范及阅读推荐
+
+#### word文档规范
 
 * 文档标题（宋体2号）
 * （下文须空一行）
@@ -46,4 +48,11 @@ Awesome-Windows的Contributor多数国内外软件工程师与爱好者自发贡
     * 二级标题（楷体，3号）
         * 三、四级标题（仿宋，3号）
 
-参考推荐：[阮一峰-中文技术文档规范](https://github.com/ruanyf/document-style-guide)
+::: tip
+#### 阅读推荐
+
+推荐目的：知道自己应该做什么，以及了解运维的业务，提升自己。
+* [duduyx-网管的自我修养](https://www.cnblogs.com/duduyx/p/6351756.html)
+* [人民邮电出版社 -《IT运维之道 第二版》](https://e.jd.com/30334774.html)
+* [阮一峰-中文技术文档规范](https://github.com/ruanyf/document-style-guide)
+:::
