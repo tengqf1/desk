@@ -1,29 +1,29 @@
-[[toc]]
-
-## 批处理应用
+# Batch批量可并发业务编程
 
 我们可以用批处理、注册表来减少我们去花费大量时间去执行重复性高的工作需求。比如说：
 
-* 每台机器可信任站点及兼容视图
-* 每台机器IP地址的设置
+* 多台主机的可信任站点及兼容视图配置
 * 每台机器的主页设置
+* 每台机器IP地址的设定
+* 多台主机的操作系统激活
 * 每台机器点击安装多个的软件程序
-
 
 ::: tip
 BAT批处理学习网站推荐：
 * [w3cschool-批处理教程](https://www.w3cschool.cn/dosmlxxsc1/wvqyr9.html)
 * [Windows 批处理脚本学习教程](http://docs.30c.org/dosbat/index.html)
 * [脚本之家-批处理专栏](https://www.jb51.net/list/list_106_1.htm)
-
-最好，多认识一些Python编程方面的朋友，或是自学脚本语言。因为，这样有助于完成重复性高的资产报表记录工作。
 :::
+
+各业务编程目录
+
+[[toc]]
+
+使用方式为将以下整段代码拷贝到记事本并将格式改为`.bat`该脚本语言后缀格式执行。以上，希望能够帮助到因执行过于重复任务而苦恼的你😀
 
 ## 可信任站点注入
 
-使用方式：将以下整段代码拷贝到记事本并将格式改为`.bat`批处理格式执行。
-
-``` bat
+``` batch
 :: 可信任站点设置
 :: 网址及地址，改写成你自己需要设置的网址及地址
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\baidu.com\www" /v http /t REG_DWORD /d 0x00000002 /f
@@ -48,7 +48,7 @@ pause
 
 ## 主页修改
 
-``` bat
+``` batch
 @echo off
 mode con lines=30 cols=60
 %1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
@@ -64,18 +64,18 @@ pause
 
 ## 执行程序
 
-```bat
+```batch
 :: start为执行程序 /d 是指定路径的意思
 start /d "D:\Program Files\bitbeans\test1.exe"
 :: 等待（延迟）10秒，按任意键可跳过等待
 timeout /t 10
 start /d "D:\Program Files\bitbeans\test2.exe"
 ```
-## IP修改
+## 半自动化IP修改
 
-<details><summary>IP设置脚本源码</summary>
+<!-- <details><summary>IP设置脚本源码</summary> -->
 
-``` bat
+``` batch
 @echo off
 mode con lines=30 cols=60
 %1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
@@ -184,25 +184,10 @@ goto 5
 :4
 exit
 ```
-</details>
+<!-- </details> -->
 
 ::: tip
-运行指令小技巧
 
-* 卸载程序 `appwiz.cpl`
-* 打开控制面板 `control`
-* 打开系统面板 `win` + `pause break` 键
-* 打开系统属性 `sysdm.cpl`
-* 计算机概况
-    * 图形化 `msinfo32`
-    * 字符化 `systeminfo`
-* 任务管理器 ` taskmgr`
-* windows 版本 `winver`
-* powershell查看硬盘类型及状态 `get-physicaldisk`
-* 开关机以及重启
-    * `shutdown -s -t 0` 立马关机
-    * `shutdown -r` 重启计算机
-    * `shutdown -a` 取消关机任务
 :::
 
 
@@ -222,9 +207,6 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\
 * [360doc-通过注册表修改IE的Internet选项](http://www.360doc.com/document/18/0702/16/25799332_767124976.shtml)
 * [cnblog-添加信任站点和允许ActiveX批处理](https://www.cnblogs.com/linyijia/p/3680468.html)
 
-
-
-
 ## 远程激活
 
 ### Windows
@@ -233,7 +215,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\
 
 kms激活的前提是你的系统是批量授权版本，即VL版，一般企业版都是VL版；专业版有零售和VL版，家庭版旗舰版OEM版等等那就肯定不能默认直接用kms激活。
 
-``` bat
+``` batch
 :: kms服务器地址设置（set kms）为kms.03k.org
 slmgr /skms kms.03k.org
 :: 执行激活
@@ -244,16 +226,31 @@ slmgr /ato
 
 进入office安装源目录执行 
 
-``` bat
+``` batch
 cscript ospp.vbs /sethst:kms.03k.org
 cscript ospp.vbs /act
 ```
-
-::: tip
 
 相关远程激活站点：
 * [kms激活服务-一键激活](https://kms.library.hk/)
 * [Windows系统一句命令激活](https://v0v.bid/)
 * [cangshui-一键激活Windows和office脚本](https://kms.cangshui.net/)
 * [kms.zym-kms激活服务](http://kms.zym.com/)
-:::
+
+## 运行指令小技巧
+
+* 卸载程序 `appwiz.cpl`
+* 打开控制面板 `control`
+* 打开系统属性 `sysdm.cpl`
+* 计算机概况
+    * 图形化 `msinfo32`
+    * 字符化 `systeminfo`
+* 任务管理器 ` taskmgr`
+* windows 版本 `winver`
+* powershell查看硬盘类型及状态 `get-physicaldisk`
+* 开关机以及重启
+    * `shutdown -s -t 0` 立马关机
+    * `shutdown -r` 重启计算机
+    * `shutdown -a` 取消关机任务
+* 打开系统面板 `win` + `pause break` 键
+* 不提示并快速关闭程序 `alt`+`F4`

@@ -4,11 +4,16 @@ module.exports = {
     base: '/helpdesk-manual/', //项目文件夹设置目录
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
-      ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue
+      ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue      
+      ['@vuepress/google-analytics',
+      {
+        'ga': 'UA-157837686-3' // UA-00000000-0
+      }],
       ['copyright', {
-        noSelect: true,
+        noSelect: false,
         authorName:{
-          "zh-CN": "hoochanlon"
+          "zh-CN": "hoochanlon",
+          "en-US": "hoochanlon"
         }
       }]
     ],
@@ -21,72 +26,41 @@ module.exports = {
       },
         sidebar: [
             {
-                title: 'OA办公',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/oa-fault/oa','OA办公故障问题']]
-              },
-              {
-                title: 'OA网络',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/net-debug/net','OA网络环境维护']]
-              },
-              {
-                title: '软件故障',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/software-issue/other','办公软件使用异常']]
-              },
-              {
-                title: '办公硬件',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/hard-bearkdown/hard','硬件调试处理']]
-              },
-              {
-                title: '系统重装',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/sysdm-reset/cz.md','重装系统概要']]
-              },
-              {
-                title: '命令脚本',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/script/bat.md','批处理技巧']]
-              },
-              {
-                title: '安全防护',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/secure/trojan','病毒防范处理']]
-              },
-              {
-                title: '信息整合',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/star/centre','资料汇聚整理']]
-              },
-              {
-                title: '资产管理',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/means/zichang','资产管理技巧']]
-              },
-              {
-                title: '协商沟通',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/talk/3','客户、外包、驻场']]
-              },
-              {
-                title: '注意事项',   // 必要的
+                title: 'OA业务综合运营',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['notice/support','维护细节注意说明'],
-                  ['notice/law-sug','外包涉及到的法律知识']
+                  ['/oa-fault/oa','B/S端OA办公业务维护'],
+                  ['/net-debug/net','OA办公网络接入层运营'],
+                  ['/script/bat.md','Batch批量可并发业务编程']
+                ]
+              },
+              {
+                title: '软硬件基础维护',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/hard-bearkdown/hard','硬件设备调试处理'],
+                  ['/sysdm-reset/cz.md','系统及主机装载'],
+                  ['/software-issue/other','各类软件异常解决'],
+                  ['notice/support','如何优化桌面维护工作？']
+                ]
+              },            
+              {
+                title: '程序及设备管理',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/star/centre','程序采集与资产管理'],
+
+                ]
+              },
+              {
+                title: '信息安全防治',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/secure/trojan','病毒防范及处理方案']
                 ]
               },
               {
@@ -96,6 +70,8 @@ module.exports = {
                 children: [
                   ['notice/interview','人力资源与面试者'],
                   ['notice/ti-analysis','培训机构分析报告'],
+                  ['notice/law-sug','解构非规范型服务企业'],
+                  ['/talk/3','客户、外包、驻场'],
                   ['notice/zufang-note','社会租房记录']
                 ]
               },
