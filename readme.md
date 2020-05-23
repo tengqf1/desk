@@ -1,4 +1,4 @@
-##《桌面运维管理指南》特别篇：社会工程
+## 《桌面运维管理指南》特别篇：社会工程
 
 [2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，且自身是大专及以下的较低学历，而又无工作经验。在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)培训PUA模式借贷欺诈，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的言行举止进行换位思考分析解读。
 
