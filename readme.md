@@ -1,15 +1,16 @@
-# 2019-2020全球疫情之下，如何快速就业？
+##《桌面运维管理指南》特别篇：社会工程
 
-在[2019-2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下就业形势严峻，**如何防止招转培的培训骗取金额数万的陷阱，如何从众多求职者中脱颖而出？** 请看：
+[2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，且自身是大专及以下的较低学历，而又无工作经验。在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)培训PUA模式借贷欺诈，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的言行举止进行换位思考分析解读。
 
-* [培训机构分析报告](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)
+在投递自身所在专业找不到工作时，可尝试找与其专业有一定关联性，但要求较低的职位。入职工作并学习及镀金，当有了一定的工作经验和个人储蓄，这时可以此作为跳板再找理想的工作。
+
+面试是也是一个双向选择的过程，所以我们有必要了解该公司性质是的什么，业务运营方向，企业规模。对公司业务运行逻辑进行解构。再来考虑是否选择这家公司。
+
 * [人力资源与面试者](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)
-
-投递自身所在专业找不到工作时，可尝试找与其专业有一定关联性，但要求较低的职位。入职工作并学习及镀金，当有了一定的工作经验和个人储蓄，这时可以此作为跳板再找理想的工作。
-
-在学历低而又无工作经验的近况下，当务之急是尽快找到工作，阅读该书既能了解社会套路，又能快速入职IT相关岗位。可作为一本IT求职者的快速就业指南，又名《Java就业指南》😏。 
-
+* [培训机构分析报告](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)
+* [解构非规范型服务企业](https://hoochanlon.github.io/helpdesk-manual/notice/law-sug.html)
 ![](https://i.postimg.cc/PrvVvZtY/841.png)
+
 
 <!-- # 《桌面运维管理指南》
 
