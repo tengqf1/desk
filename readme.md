@@ -2,9 +2,12 @@
 
 [2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，且自身是大专及以下的较低学历，而又无工作经验。在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)培训[PUA模式借贷欺诈](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的言行举止进行换位思考分析解读。
 
-在投递自身所在专业找不到工作时，可尝试找与其专业有一定关联性，但要求较低的职位。入职工作并学习及镀金，当有了一定的工作经验和个人储蓄以及相关的人脉积累，可以此作为跳板再找理想的工作。
+在投递自身所在专业找不到工作时，可尝试找与其专业有一定关联性，但要求较低的职位。入职工作并学习及镀金，当有了一定的工作经验和个人储蓄以及相关的人脉积累，此时可以此作为跳板再找理想的工作。
 
-面试是也是一个双向选择的过程，所以我们有必要了解该公司性质是的什么，业务运营方向，企业规模。对公司业务运行逻辑进行解构。再来考虑是否选择这家公司。
+不管在怎样的逆境下，面试是也是一个双向选择的过程，因为资本家是不会做慈善施舍应聘者的，所以也没必要太自卑。
+
+
+，所以我们有必要了解该公司性质是的什么，业务运营方向，企业规模。对公司业务运行逻辑进行解构。再来考虑是否选择这家公司。
 
 * [人力资源与面试者](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)
 * [培训机构分析报告](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)
