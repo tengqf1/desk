@@ -254,3 +254,19 @@ cscript ospp.vbs /act
     * `shutdown -a` 取消关机任务
 * 打开系统面板 `win` + `pause break` 键
 * 不提示并快速关闭程序 `alt`+`F4`
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157837686-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-157837686-3');
+  </script>
+
+ -->
