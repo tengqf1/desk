@@ -30,9 +30,10 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/oa-fault/oa','B/S端OA办公业务维护'],
+                  ['/oa-fault/oa','B/S端OA业务初级维护'],
                   ['/net-debug/net','OA办公网络接入层运营'],
-                  ['/script/bat.md','Batch批量可并发业务编程']
+                  ['/script/bat.md','Batch批量可并发业务编程'],
+                  ['/secure/trojan','信息安全病毒高级防控']
                 ]
               },
               {
@@ -43,36 +44,32 @@ module.exports = {
                   ['/hard-bearkdown/hard','硬件设备调试处理'],
                   ['/sysdm-reset/cz.md','系统及主机装载'],
                   ['/software-issue/other','各类软件异常解决'],
-                  ['notice/support','如何优化桌面维护工作？']
-                ]
-              },            
-              {
-                title: '程序及设备管理',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
                   ['/star/centre','程序采集与资产管理'],
 
                 ]
-              },
+              },            
               {
-                title: '信息安全防治',   // 必要的
+                title: '职场社会工程学',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/secure/trojan','病毒防范及处理方案']
-                ]
-              },
-              {
-                title: '特别篇：社会工程',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
+                  ['notice/found','低学历往届生求职历程'],
                   ['notice/interview','人力资源与面试者'],
                   ['notice/ti-analysis','培训机构分析报告'],
                   ['notice/law-sug','解构非规范型服务企业'],
                   ['/talk/3','客户、外包、驻场'],
                   ['notice/zufang-note','社会租房记录']
+                ]
+              },
+              {
+                title: '运维服务规划（进阶）',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/mean/format','项目标书及岗位文档编写格式'],
+                  ['/mean/fa','桌面运维服务方案样例'],
+                  ['/mean/man','企业岗位手册模板'],
+                  ['notice/support','如何优化桌面维护工作？']
                 ]
               },
               {

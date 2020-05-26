@@ -1,8 +1,8 @@
-## 《桌面运维管理指南》特别篇：社会工程
+# 低学历往届生求职历程
 
 [2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，且自身是大专及以下的较低学历，而又无工作经验。在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)培训[PUA模式借贷欺诈](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的言行举止进行换位思考分析解读。
 
-应届及新人找不到工作，并不是个例问题，已成为正常普遍现象。这对于资本家也不算啥，只要有人能够胜任岗位工作就没问题。初入社会就业期间的苦楚，对于低学历没经验的我们也经历过的，再惨的经历最多只能博得同情，而同情怜悯不是企业聘用人才的必要条件，甚至连加分都不是，这不是施舍乞丐。
+应届及无经验的往届生、转行新人找不到工作，并不是个例问题，已成为正常普遍现象。这对于资本家也不算啥，只要有人能够胜任岗位工作就没问题。初入社会就业期间的苦楚，对于低学历没经验的我们也经历过的，再惨的经历最多只能博得同情，而同情怜悯不是企业聘用人才的必要条件，甚至连加分都不是，这不是施舍乞丐。
 
 这里有必要额外强调说明一点：
 
@@ -25,21 +25,6 @@
 * [培训机构分析报告](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)
 * [解构非规范型服务企业](https://hoochanlon.github.io/helpdesk-manual/notice/law-sug.html)
 
-![](https://i.postimg.cc/PrvVvZtY/841.png)
-
-todo
-
-* [ ] 5月截止，完善社工章节以及案例说明
-
-
-<!-- # 《桌面运维管理指南》
-
-
-著写《桌面运维管理指南》目的，是为了帮助桌面运维工程师解决一些影响办公人员事务效率的软硬件等各类问题，以提高公司整体的办公效率。同时，该书也可作为计算机自由爱好者成为一名具有职业素质的桌面运维工程师指导手册。
-
-本书新增了特别篇社会工程章节，应届实习新人面对社会工作生活，也能从中受益。此外，在[2019-2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下就业形势严峻，该书也可作为一本IT求职者的快速就业指南。 
-
-![2020-04-25_23-41-35.png](https://i.loli.net/2020/04/25/kIDatTGFr5ibePQ.png) -->
 
 
 
