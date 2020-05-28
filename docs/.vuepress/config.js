@@ -67,8 +67,9 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/mean/format','项目标书及岗位文档编写格式'],
-                  ['/mean/fa','桌面运维服务方案样例'],
-                  ['/mean/man','企业岗位手册模板'],
+                  ['/mean/fa','桌面运维服务方案模板'],
+                  ['/mean/man','企业岗位手册样本'],
+                  ['/mean/jidu','工作季度报告样例'],
                   ['notice/support','如何优化桌面维护工作？']
                 ]
               },
