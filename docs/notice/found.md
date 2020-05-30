@@ -25,8 +25,15 @@
 * [培训机构分析报告](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)
 * [解构非规范型服务企业](https://hoochanlon.github.io/helpdesk-manual/notice/law-sug.html)
 
+::: warning
+为什么我们会接受这样的教育？
 
+文化、国家背景、人文环境
 
+[知乎-有哪些你毕业多年后才明白的道理？](https://www.zhihu.com/answer/999702763)
+
+最后却吃了这方面的亏，造成人生的一大遗憾；我们是不是应该注意语文、历史政治教科书，因为小孩是最容易唬骗的。
+:::
 
 
 
