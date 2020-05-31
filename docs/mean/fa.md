@@ -23,6 +23,7 @@
 
 额外参考了 [《HR Value》 48期 组织效能提升](http://www.baidu.com/link?url=Pw0qf1EuB2ZOS1srCVdO6i4JgZMpVAW04IfbOZh-C1Hm3JlyTx5XgaC_V0Jsby5lGjv3kKqS_jw_oysGMfUUa68RA88o_l6EWF3-2tcZ_Y6stwA6Laps6TYTTSzqjwAbYs0A9l8N4CnLWP1aM3tYHI8RapTshHRNhT_yv1woaJhSMb1-N9tElgOCwH2drvIsUdfiJtvc6A-e6Z7o6CT9lK)、[环旭电子股份有限公司 2019 企业社会责任报告书](http://www.sse.com.cn/disclosure/listedinfo/announcement/c/2020-04-08/601231_20200408_8.pdf)，中标后向甲方提交项目方案，项目方案则是对标书概述内容的具体实施，格式与总体内容是相对一致的。
 
+* [关于运维服务完整与方案文献的链接](https://max.book118.com/html/2018/1015/8011006033001127.shtm)
 
 ## 项目概述 
 
