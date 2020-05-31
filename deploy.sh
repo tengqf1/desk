@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 git init
 git add .
 git commit -m 'deploy'
-git remote add origin https://github.com/hoochanlon/helpdesk-manual.git
+git remote add origin https://github.com/hoochanlon/helpdesk-guide.git
 git checkout -b gh-pages
 git push origin gh-pages -f
 
