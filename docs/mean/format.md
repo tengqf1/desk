@@ -2,7 +2,11 @@
 
 ::: tip
 关于标书的知识，强烈推荐阅读：
+* [百度经验-新手如何编写标书？](https://jingyan.baidu.com/article/574c521959ec5e6c8d9dc1bf.html)
 * [知乎专栏 招投标知道分享-《关于标书，你想知道的全在这！》（转载）](https://zhuanlan.zhihu.com/p/95672108)
+* [标书啦-一份完整的投标书范本](https://www.biaoshula.com/b192.html)
+
+![](https://i.loli.net/2020/05/31/i62gRVOeTb3vIGF.png)
 :::
 
 > 标书的编制：  
