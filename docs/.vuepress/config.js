@@ -1,7 +1,7 @@
 module.exports = {
     title: '桌面运维管理指南',
     description: '如题所述，常见OA办公桌面环境故障解答',
-    base: '/helpdesk-manual/', //项目文件夹设置目录
+    base: '/helpdesk-guide/', //项目文件夹设置目录
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
       ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue      
@@ -18,7 +18,7 @@ module.exports = {
       }]
     ],
     themeConfig: {
-      repo: 'https://github.com/hoochanlon/helpdesk-manual/',
+      repo: 'https://github.com/hoochanlon/helpdesk-guide/',
       nav: [{ text: '跳转首页', link: '/' }],
       algolia: {
         apiKey: 'cb720d4380fe1a8f6fc0caeaccf225dc',
