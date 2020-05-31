@@ -5,6 +5,7 @@
 * [百度经验-新手如何编写标书？](https://jingyan.baidu.com/article/574c521959ec5e6c8d9dc1bf.html)
 * [知乎专栏 招投标知道分享-《关于标书，你想知道的全在这！》（转载）](https://zhuanlan.zhihu.com/p/95672108)
 * [标书啦-一份完整的投标书范本](https://www.biaoshula.com/b192.html)
+* [一份公开招标文件献上 《南宁市政府采购服务类 公开招标文件》](https://www.baidu.com/link?url=5F7V4us8olSgooftVOFTvodcooNxhZHe5VYjjAliZNi5dsXxohTbqbbHUE63P8UdqNfaT8k8k6dxvon2mdYI08K6jBKKjDELbIe5cCD12cpqpejjPPxU-XcljibuFYuv&amp;wd=&amp;eqid=ad31d657000163cd000000065ed39e27)
 
 ![](https://i.loli.net/2020/05/31/i62gRVOeTb3vIGF.png)
 :::

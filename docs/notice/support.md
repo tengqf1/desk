@@ -27,6 +27,8 @@
 * Check 检查并总结执行计划结果
 * Action 对检查结果进行调优校对
 
+顺便加以实践去了解下 [知乎-你在生活中有哪些观人术和识人技巧？](https://www.zhihu.com/question/23561870/answer/83205025)
+
 ## Service Level Agreement
 
 SLA（Service Level Agreement）是指提供服务的企业与客户之间就服务的品质、水准、性能等方面所达成的双方共同认可的协议或契约。下面介绍的ITSM可看作SLA其中的执行过程。
