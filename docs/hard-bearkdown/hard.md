@@ -193,6 +193,13 @@ net start spooler //启动打印服务
 
 分析：不识别原因，没安装内部团队开发的安全U盘设计程式。
 
+### usb killer
+
+* [谨慎使用：能彻底废了电脑的“夺命U盘”](https://www.cnbeta.com/articles/tech/377085.htm)
+* [如何评价“夺命U盘USB Killer”？](https://www.zhihu.com/question/28753840)
+
+usb killer内部结构与正常U盘差异过大，警惕无名无牌的u盘。
+
 ### PC插入手写板无法进行文档手写
 
 解决办法：安装相应品牌手写板驱动、手写板程序
