@@ -21,6 +21,8 @@
 
 在投递自身所在专业找不到工作时，可尝试找与其专业有一定关联性，但要求较低的职位。并做好社会工程学方面功课，入职工作并学习及镀金，当有了一定的工作经验和个人储蓄以及相关的人脉积累，此时可以此作为跳板再找理想的工作。
 
+
+
 * [人力资源与面试者](https://hoochanlon.github.io/helpdesk-guide/notice/interview.html)
 * [培训机构分析报告](https://hoochanlon.github.io/helpdesk-guide/notice/ti-analysis.html)
 * [解构非规范型服务企业](https://hoochanlon.github.io/helpdesk-guide/notice/law-sug.html)
