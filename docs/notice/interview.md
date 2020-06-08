@@ -197,6 +197,8 @@ ps：
 我之前在的鸿海，年终奖只要是正编就有的，五险一金是按实际工资百分比缴纳的。
 
 * [知乎-应届生求职如何避免踩雷「血汗工厂」？](https://www.zhihu.com/question/397948099/answer/1256648657)
+* [各省求职者慎重公司参考名单(由996icu作者发起)](https://lanzous.com/ixGgRdgyija)
+* [996icu slack邀请链（在线黑名单公司文档编辑群）](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ)
 
 
 ### 薪资的试探
