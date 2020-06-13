@@ -195,20 +195,11 @@ HR们幸幸苦苦看了那么多简历，筛选出可能合适的人，如约通
 * 五险一金是按实际工资百分比缴纳还是地方最低工资缴纳？
 * 租房、交通补贴、年终奖以及下午茶有吗？发放机制又是怎样的，具体是多少？😀
 
-提出该问的目的是：
+我之前在的鸿海，年终奖只要是正编就有的，五险一金是按实际工资百分比缴纳的。不同公司，政策也会有所差异。提出该问的目的是：
 
 1. 了解该企业偏向于那个行业方向，及是一家什么性质的公司
 2. 摸底公司大概的技术含量占比，以及晋升情况
 3. 对比其他企业的五险一金及福利待遇，是好是坏
-
-ps：
-
-我之前在的鸿海，年终奖只要是正编就有的，五险一金是按实际工资百分比缴纳的。
-
-* [知乎-应届生求职如何避免踩雷「血汗工厂」？](https://www.zhihu.com/question/397948099/answer/1256648657)
-* [各省求职者慎重公司参考名单(由996icu作者发起)](https://lanzous.com/ixGgRdgyija)
-* [996icu slack邀请链（在线黑名单公司文档编辑群）](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ)
-
 
 ### 薪资的试探
 
@@ -217,6 +208,20 @@ ps：
 * 可能该岗位可能非业务核心，也并不重视
 * 岗位若是与业务核心相关（外包服务）
     * 那么就是倾向于招牛马苦工，不尊重人才
+
+### 我们薪资不高，但能教你很多东西
+
+如果是业内巨头的HR这么说，且作为求职者的资历不深，需要公司背书，那么其实是可以考虑的。如果是一个小公司的HR这么说，那就是想用鸡汤白嫖你。而且还没说谎，因为他已经用实际行动告诉了你：社会上有坏人。当然，所有前提都是你有的选，如果你没得选，那就没辙了，纠结这句话也没啥意义了。
+
+> 摘自 [banfoxianren的回答](https://www.zhihu.com/question/397786863/answer/1278173994)
+
+补充一点：这个小公司也可以是中小型外包中介公司的HR
+
+### 链接参考
+
+* [知乎-应届生求职如何避免踩雷「血汗工厂」？](https://www.zhihu.com/question/397948099/answer/1256648657)
+* [各省求职者慎重公司参考名单(由996icu作者发起)](https://lanzous.com/ixGgRdgyija)
+* [996icu slack邀请链（在线黑名单公司文档编辑群）](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ)
 
 ## 在职找工作
 
