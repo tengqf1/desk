@@ -1,7 +1,10 @@
 module.exports = {
     title: '桌面运维管理指南',
-    description: '如题所述，常见OA办公桌面环境故障解答',
+    description: '培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR；反欺骗研究，社会工程学入门实践，IT方向速成就业入职',
     base: '/helpdesk-guide/', //项目文件夹设置目录
+    head:[
+      ['link', {rel:'icon', href:'favicon.ico'}]
+    ],
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
       ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue      
@@ -19,7 +22,13 @@ module.exports = {
     ],
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-guide/',
-      nav: [{ text: '跳转首页', link: '/' }],
+      nav: [
+        // { text: '跳转首页', link: '/' },
+        { text: '本作品采用by-nc4.0知识协议进行许可', link: 'http://creativecommons.org/licenses/by-nc/4.0/' },
+      ],
+      editLinks: false,
+      // 自定义编辑链接的文本。默认是 "Edit this page"
+      editLinkText: '帮助我们改善内容',
       algolia: {
         apiKey: 'cb720d4380fe1a8f6fc0caeaccf225dc',
         indexName: 'hoochanlon_helpdesk'
