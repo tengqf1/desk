@@ -18,6 +18,6 @@
 
 * 专业大方向不变的基础上升级至[信息系统协调员](https://zhidao.baidu.com/question/1795030400048058347.html)、[售前工程师](https://baike.baidu.com/item/%E5%94%AE%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88)、[客户服务经理](https://baike.baidu.com/item/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%E7%BB%8F%E7%90%86)
 * 向更高要求的相关运维专业方向发展，如：网络工程师、信息安全工程师、系统工程师
-* 转职编程、产品经理或其他方向（目前，编程内卷严重，低学历经验少被[“招转培”](/notice/ti-analysis.html)，且失业的很多）
+* 转职编程、产品经理或其他方向（目前编程内卷严重，低学历经验少的被[“招转培”](/notice/ti-analysis.html)，且失业的很多）
 
 在[2019-2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下就业形势严峻，该书也可作为一本IT求职者的快速就业指南。
