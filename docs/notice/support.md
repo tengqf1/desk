@@ -32,11 +32,11 @@
 
 但我们也要在维护好客户关系，同时也要把事情做好，并get到一些企业与人力方面的管理学知识，从基层的桌面运维工程师谋取更高的职位。
 
-* 专业大方向不变的基础上升级至[售前工程师](https://baike.baidu.com/item/%E5%94%AE%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88)、[客户服务经理](https://baike.baidu.com/item/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%E7%BB%8F%E7%90%86)
+* 专业大方向不变的基础上升级至[售前工程师](https://baike.baidu.com/item/%E5%94%AE%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88)、[客户服务经理](https://baike.baidu.com/item/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%E7%BB%8F%E7%90%86)、[信息系统协调员](https://zhidao.baidu.com/question/1795030400048058347.html)
 * 向更高要求的相关运维专业方向发展，如网络工程师、信息安全工程师、系统工程师
-* 转职开发编程或其他方向（不推荐，内卷严重，低学历经验少的同事失业的很多；但可以学习编程）
+* 转职开发编程、产品经理或其他方向
 
-顺便加以实践去了解下 [知乎-你在生活中有哪些观人术和识人技巧？](https://www.zhihu.com/question/23561870/answer/83205025)
+开发方向，目前内卷严重，低学历经验少的同事失业的很多，但可以学习编程。顺便加以实践去了解下 [知乎-你在生活中有哪些观人术和识人技巧？](https://www.zhihu.com/question/23561870/answer/83205025)
 
 ### 故事体会
 
@@ -97,9 +97,10 @@ ITSM报表提交，实际上是给领导用的用来优化公司IT服务，提�
 
 * [duduyx-网管的自我修养](https://www.cnblogs.com/duduyx/p/6351756.html)
 * [人民邮电出版社 -《IT运维之道 第二版》](https://e.jd.com/30334774.html)（学习运维项目管理知识）
-* [《软考网络规划师》](https://zhuanlan.zhihu.com/p/94140753) （软考资质用于项目招投标）
+* [《软考网络规划师》](https://zhuanlan.zhihu.com/p/94140753) （软考高项资质用于企业招投标项目）
 * [唐纳德·特朗普-《学徒》真人秀](https://www.bilibili.com/bangumi/media/md28220369) （企业招贤纳士考量）
 * [凯文•米特尼克-《反欺骗的艺术》](https://book.douban.com/subject/25962840/) （社会工程学）
+* [lazyparser-极简项目管理](https://github.com/lazyparser/minimalist-team-leader)
 
 
 ::: tip
