@@ -22,4 +22,4 @@
 
 在[2019-2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下就业形势严峻，该书也可作为一本IT求职者的快速就业指南。
 
-***[About Me](https://hoochanlon.github.io/Hacking-AboutMe/)***
+***[About Me](https://hoochanlon.github.io/about.me)***
