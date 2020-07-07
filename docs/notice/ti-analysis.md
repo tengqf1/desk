@@ -18,8 +18,9 @@
 
 
 :::tip
-**推荐观看该视频，如何用法律的武器进行维权！**
+**推荐观看以下视频**
 * [朱一旦X罗翔 bilibili-被培训“招转培”套路诈骗，请拿起法律的武器！](https://www.bilibili.com/video/BV1ga4y1e7Z1)
+* [资本涌入及行业发展与人才过剩问题，有一定的启示](https://www.bilibili.com/video/BV1eJ411x7Ea/)
 :::
 
 ## 首先，站在企业的盈利的角度分析
